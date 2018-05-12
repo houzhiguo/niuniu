@@ -11,23 +11,23 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.zhihuicy.com/tt/baishen-resigned.ipa</string>
+					<string>https://www.zhihuicy.com/tt/baishen-resigned.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>needs-shine</key>
-					<true/>
+					<false/>
 					<key>url</key>
-					<string>http://www.zhihuicy.com/tt/Icon512.jpg</string>
+					<string></string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>needs-shine</key>
-					<true/>
+					<false/>
 					<key>url</key>
-					<string>http://www.zhihuicy.com/tt/Icon57.jpg</string>
+					<string></string>
 				</dict>
 			</array>
 			<key>metadata</key>
